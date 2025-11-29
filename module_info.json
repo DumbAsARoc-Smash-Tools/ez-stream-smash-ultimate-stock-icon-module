@@ -3,104 +3,20 @@
     "default_character": "Random",
     "character_data": [
         {
-            "display_name": "Bowser Jr",
-            "path_in_folder": "Bowser Jr",
+            "display_name": "Mario",
+            "path_in_folder": "Mario",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Hero",
-            "path_in_folder": "Hero",
+            "display_name": "Donkey Kong",
+            "path_in_folder": "Donkey Kong",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Mega Man",
-            "path_in_folder": "Mega Man",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Shulk",
-            "path_in_folder": "Shulk",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Isabelle",
-            "path_in_folder": "Isabelle",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Pit",
-            "path_in_folder": "Pit",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Ridley",
-            "path_in_folder": "Ridley",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Rosalina & Luma",
-            "path_in_folder": "Rosalina & Luma",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Ness",
-            "path_in_folder": "Ness",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Pichu",
-            "path_in_folder": "Pichu",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Villager",
-            "path_in_folder": "Villager",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Pokemon Trainer",
-            "path_in_folder": "Pokemon Trainer",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Pac Man",
-            "path_in_folder": "Pac Man",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Min Min",
-            "path_in_folder": "Min Min",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Lucina",
-            "path_in_folder": "Lucina",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Palutena",
-            "path_in_folder": "Palutena",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Bayonetta",
-            "path_in_folder": "Bayonetta",
+            "display_name": "Link",
+            "path_in_folder": "Link",
             "num_costumes": 8,
             "aliases": []
         },
@@ -111,20 +27,194 @@
             "aliases": []
         },
         {
-            "display_name": "Banjo & Kazooie",
-            "path_in_folder": "Banjo & Kazooie",
+            "display_name": "Dark Samus",
+            "path_in_folder": "Dark Samus",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Duck Hunt",
-            "path_in_folder": "Duck Hunt",
+            "display_name": "Yoshi",
+            "path_in_folder": "Yoshi",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Olimar",
-            "path_in_folder": "Olimar",
+            "display_name": "Kirby",
+            "path_in_folder": "Kirby",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Fox",
+            "path_in_folder": "Fox",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Pikachu",
+            "path_in_folder": "Pikachu",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Luigi",
+            "path_in_folder": "Luigi",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Ness",
+            "path_in_folder": "Ness",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Captain Falcon",
+            "path_in_folder": "Captain Falcon",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Jigglypuff",
+            "path_in_folder": "Jigglypuff",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Peach",
+            "path_in_folder": "Peach",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Daisy",
+            "path_in_folder": "Daisy",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Bowser",
+            "path_in_folder": "Bowser",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Ice Climbers",
+            "path_in_folder": "Ice Climbers",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Sheik",
+            "path_in_folder": "Sheik",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Zelda",
+            "path_in_folder": "Zelda",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Dr Mario",
+            "path_in_folder": "Dr Mario",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Pichu",
+            "path_in_folder": "Pichu",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Falco",
+            "path_in_folder": "Falco",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Marth",
+            "path_in_folder": "Marth",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Lucina",
+            "path_in_folder": "Lucina",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Young Link",
+            "path_in_folder": "Young Link",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Ganondorf",
+            "path_in_folder": "Ganondorf",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Mewtwo",
+            "path_in_folder": "Mewtwo",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Roy",
+            "path_in_folder": "Roy",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Chrom",
+            "path_in_folder": "Chrom",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Mr Game & Watch",
+            "path_in_folder": "Mr Game & Watch",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Meta Knight",
+            "path_in_folder": "Meta Knight",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Pit",
+            "path_in_folder": "Pit",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Dark Pit",
+            "path_in_folder": "Dark Pit",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Zero Suit Samus",
+            "path_in_folder": "Zero Suit Samus",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Wario",
+            "path_in_folder": "Wario",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Snake",
+            "path_in_folder": "Snake",
             "num_costumes": 8,
             "aliases": []
         },
@@ -135,15 +225,15 @@
             "aliases": []
         },
         {
-            "display_name": "King K Rool",
-            "path_in_folder": "King K Rool",
+            "display_name": "Pokemon Trainer",
+            "path_in_folder": "Pokemon Trainer",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Random",
-            "path_in_folder": "Random",
-            "num_costumes": 1,
+            "display_name": "Diddy Kong",
+            "path_in_folder": "Diddy Kong",
+            "num_costumes": 8,
             "aliases": []
         },
         {
@@ -159,212 +249,14 @@
             "aliases": []
         },
         {
-            "display_name": "Greninja",
-            "path_in_folder": "Greninja",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Joker",
-            "path_in_folder": "Joker",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Ganondorf",
-            "path_in_folder": "Ganondorf",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Roy",
-            "path_in_folder": "Roy",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Sheik",
-            "path_in_folder": "Sheik",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Wii Fit Trainer",
-            "path_in_folder": "Wii Fit Trainer",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Zero Suit Samus",
-            "path_in_folder": "Zero Suit Samus",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Inkling",
-            "path_in_folder": "Inkling",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Toon Link",
-            "path_in_folder": "Toon Link",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Snake",
-            "path_in_folder": "Snake",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Donkey Kong",
-            "path_in_folder": "Donkey Kong",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Mr Game & Watch",
-            "path_in_folder": "Mr Game & Watch",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Sora",
-            "path_in_folder": "Sora",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Yoshi",
-            "path_in_folder": "Yoshi",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Mii Gunner",
-            "path_in_folder": "Mii Gunner",
-            "num_costumes": 1,
-            "aliases": []
-        },
-        {
-            "display_name": "Cloud",
-            "path_in_folder": "Cloud",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Daisy",
-            "path_in_folder": "Daisy",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Pyra & Mythra",
-            "path_in_folder": "Pyra & Mythra",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Steve",
-            "path_in_folder": "Steve",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Falco",
-            "path_in_folder": "Falco",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "ROB",
-            "path_in_folder": "ROB",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Robin",
-            "path_in_folder": "Robin",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Little Mac",
-            "path_in_folder": "Little Mac",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Simon",
-            "path_in_folder": "Simon",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Dr Mario",
-            "path_in_folder": "Dr Mario",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Ken",
-            "path_in_folder": "Ken",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Byleth",
-            "path_in_folder": "Byleth",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
             "display_name": "King Dedede",
             "path_in_folder": "King Dedede",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Mewtwo",
-            "path_in_folder": "Mewtwo",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Fox",
-            "path_in_folder": "Fox",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Ice Climbers",
-            "path_in_folder": "Ice Climbers",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Mii Swordfighter",
-            "path_in_folder": "Mii Swordfighter",
-            "num_costumes": 1,
-            "aliases": []
-        },
-        {
-            "display_name": "Peach",
-            "path_in_folder": "Peach",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Kazuya",
-            "path_in_folder": "Kazuya",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Captain Falcon",
-            "path_in_folder": "Captain Falcon",
+            "display_name": "Olimar",
+            "path_in_folder": "Olimar",
             "num_costumes": 8,
             "aliases": []
         },
@@ -375,26 +267,92 @@
             "aliases": []
         },
         {
+            "display_name": "ROB",
+            "path_in_folder": "ROB",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Toon Link",
+            "path_in_folder": "Toon Link",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
             "display_name": "Wolf",
             "path_in_folder": "Wolf",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Mario",
-            "path_in_folder": "Mario",
+            "display_name": "Villager",
+            "path_in_folder": "Villager",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Luigi",
-            "path_in_folder": "Luigi",
+            "display_name": "Mega Man",
+            "path_in_folder": "Mega Man",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Diddy Kong",
-            "path_in_folder": "Diddy Kong",
+            "display_name": "Wii Fit Trainer",
+            "path_in_folder": "Wii Fit Trainer",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Rosalina & Luma",
+            "path_in_folder": "Rosalina & Luma",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Little Mac",
+            "path_in_folder": "Little Mac",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Greninja",
+            "path_in_folder": "Greninja",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Palutena",
+            "path_in_folder": "Palutena",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Pac Man",
+            "path_in_folder": "Pac Man",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Robin",
+            "path_in_folder": "Robin",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Shulk",
+            "path_in_folder": "Shulk",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Bowser Jr",
+            "path_in_folder": "Bowser Jr",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Duck Hunt",
+            "path_in_folder": "Duck Hunt",
             "num_costumes": 8,
             "aliases": []
         },
@@ -405,32 +363,14 @@
             "aliases": []
         },
         {
-            "display_name": "Zelda",
-            "path_in_folder": "Zelda",
+            "display_name": "Ken",
+            "path_in_folder": "Ken",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Pikachu",
-            "path_in_folder": "Pikachu",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Meta Knight",
-            "path_in_folder": "Meta Knight",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Terry",
-            "path_in_folder": "Terry",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Richter",
-            "path_in_folder": "Richter",
+            "display_name": "Cloud",
+            "path_in_folder": "Cloud",
             "num_costumes": 8,
             "aliases": []
         },
@@ -441,38 +381,44 @@
             "aliases": []
         },
         {
-            "display_name": "Bowser",
-            "path_in_folder": "Bowser",
+            "display_name": "Bayonetta",
+            "path_in_folder": "Bayonetta",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Mii Brawler",
-            "path_in_folder": "Mii Brawler",
-            "num_costumes": 1,
-            "aliases": []
-        },
-        {
-            "display_name": "Wario",
-            "path_in_folder": "Wario",
+            "display_name": "Inkling",
+            "path_in_folder": "Inkling",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Chrom",
-            "path_in_folder": "Chrom",
+            "display_name": "Ridley",
+            "path_in_folder": "Ridley",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Marth",
-            "path_in_folder": "Marth",
+            "display_name": "Simon",
+            "path_in_folder": "Simon",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Dark Pit",
-            "path_in_folder": "Dark Pit",
+            "display_name": "Richter",
+            "path_in_folder": "Richter",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "King K Rool",
+            "path_in_folder": "King K Rool",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Isabelle",
+            "path_in_folder": "Isabelle",
             "num_costumes": 8,
             "aliases": []
         },
@@ -483,32 +429,50 @@
             "aliases": []
         },
         {
-            "display_name": "Jigglypuff",
-            "path_in_folder": "Jigglypuff",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Dark Samus",
-            "path_in_folder": "Dark Samus",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
-            "display_name": "Kirby",
-            "path_in_folder": "Kirby",
-            "num_costumes": 8,
-            "aliases": []
-        },
-        {
             "display_name": "Piranha Plant",
             "path_in_folder": "Piranha Plant",
             "num_costumes": 8,
             "aliases": []
         },
         {
-            "display_name": "Link",
-            "path_in_folder": "Link",
+            "display_name": "Joker",
+            "path_in_folder": "Joker",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Hero",
+            "path_in_folder": "Hero",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Banjo & Kazooie",
+            "path_in_folder": "Banjo & Kazooie",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Terry",
+            "path_in_folder": "Terry",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Byleth",
+            "path_in_folder": "Byleth",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Min Min",
+            "path_in_folder": "Min Min",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Steve",
+            "path_in_folder": "Steve",
             "num_costumes": 8,
             "aliases": []
         },
@@ -519,9 +483,45 @@
             "aliases": []
         },
         {
-            "display_name": "Young Link",
-            "path_in_folder": "Young Link",
+            "display_name": "Pyra & Mythra",
+            "path_in_folder": "Pyra & Mythra",
             "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Kazuya",
+            "path_in_folder": "Kazuya",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Sora",
+            "path_in_folder": "Sora",
+            "num_costumes": 8,
+            "aliases": []
+        },
+        {
+            "display_name": "Mii Brawler",
+            "path_in_folder": "Mii Brawler",
+            "num_costumes": 1,
+            "aliases": []
+        },
+        {
+            "display_name": "Mii Swordfighter",
+            "path_in_folder": "Mii Swordfighter",
+            "num_costumes": 1,
+            "aliases": []
+        },
+        {
+            "display_name": "Mii Gunner",
+            "path_in_folder": "Mii Gunner",
+            "num_costumes": 1,
+            "aliases": []
+        },
+        {
+            "display_name": "Random",
+            "path_in_folder": "Random",
+            "num_costumes": 1,
             "aliases": []
         }
     ]
